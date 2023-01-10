@@ -13,3 +13,7 @@ Data from the Title column is fetched first and then script is redirected to the
 ![Web scrapper 2](https://user-images.githubusercontent.com/56105570/211666460-931f2041-6cb2-46c3-b55e-4f8382a3d2c9.PNG)
 
 ![Web scrapper3](https://user-images.githubusercontent.com/56105570/211666495-43327738-bd27-46b3-bb1c-771421278b64.PNG)
+
+Data is retreived in the below format.
+
+![WebScrapper4](https://user-images.githubusercontent.com/56105570/211666992-e35bb376-b4e8-4160-9c62-145f9a6196a0.PNG)
