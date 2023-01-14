@@ -17,3 +17,8 @@ Data from the Title column is fetched first and then script is redirected to the
 Data is retreived in the below format.
 
 ![WebScrapper4](https://user-images.githubusercontent.com/56105570/211666992-e35bb376-b4e8-4160-9c62-145f9a6196a0.PNG)
+
+The data is then in .JSON file.
+
+![Web scrapper 5](https://user-images.githubusercontent.com/56105570/212447077-000172b0-8fd3-440d-9dae-6b5270a9846c.PNG)
+
